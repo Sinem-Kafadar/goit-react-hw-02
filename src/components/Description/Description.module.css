@@ -1,0 +1,22 @@
+/* Sip Happens Café başlığı için */
+.title {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 16px;
+    color: #000000;
+    /* Tam siyah netlik */
+}
+
+/* Please leave your feedback... açıklaması için */
+.text {
+    font-size: 32px;
+    /* Açıklama metnini daha okunaklı ve büyük yapar */
+    font-weight: 400;
+    /* Normal font kalınlığı */
+    line-height: 1.5;
+    /* Satır aralığını rahatlatır */
+    margin: 0;
+    color: #212121;
+    /* Şık bir koyu gri/siyah tonu */
+}

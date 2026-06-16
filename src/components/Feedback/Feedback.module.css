@@ -1,0 +1,15 @@
+.feedbackList {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    /* Satırların arasındaki boşluğu düzenler */
+    margin-top: 15px;
+}
+
+.feedbackItem {
+    font-size: 38px;
+    margin: 0;
+    /* Tarayıcının varsayılan boşluklarını sıfırlar */
+    color: #111111;
+    /* Yazı rengini netleştirir */
+}
